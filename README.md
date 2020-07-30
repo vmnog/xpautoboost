@@ -1,6 +1,13 @@
 # xpautoboost
 Python Script for League of Legends Auto XP Bot Boosting
 
+## Settings needed to run without ajustments
+- Monitor: 1920x1080
+- LoL Resolution: 1440x900
+- Minimap size: 100%
+- Windowed mode
+- Soraka buyed
+
 ## How to run
 
 - Download or clone repository </li>
