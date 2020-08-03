@@ -6,7 +6,9 @@ Python Script for League of Legends Auto XP Bot Boosting
 - LoL Resolution: 1440x900
 - Minimap size: 100%
 - Windowed mode
-- Soraka buyed
+- Soraka in collection
+- Windows 7/10
+- Python installed
 
 ## How to run
 
