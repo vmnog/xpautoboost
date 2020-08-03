@@ -208,8 +208,8 @@ def playsYuumi():
         click()
 
         moveTo(alied[0], alied[1])
-        click()    
-             
+        click()  
+
         # Press CTRL + W
         PressKey(0x11)
         PressKey(0x57)
@@ -220,16 +220,13 @@ def playsYuumi():
         PressKey(0x11)
         PressKey(0x45)
         ReleaseKey(0x45)
-        ReleaseKey(0x11)
-
-        
+        ReleaseKey(0x11)    
 
         # Press CTRL + Q
         PressKey(0x11)
         PressKey(0x51)
         ReleaseKey(0x51)
         ReleaseKey(0x11)
-
       
         # Press CTRL + R
         PressKey(0x11)
